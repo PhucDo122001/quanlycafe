@@ -1,75 +1,137 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.example.myapplication"
+3    package="com.example.quanlycafe"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="24"
-8-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml
-9        android:targetSdkVersion="33" />
-9-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml
+8        android:minSdkVersion="21"
+8-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml
 10
 11    <application
-11-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:5:5-23:19
+11-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:6:5-54:19
 12        android:allowBackup="true"
-12-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:6:9-35
+12-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:7:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-13-->[androidx.core:core:1.7.0] /Users/phucdo/.gradle/caches/transforms-3/0212d0c0c0b99c5d00c15a82a811f4d1/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+13-->[androidx.core:core:1.8.0] /Users/phucdo/.gradle/caches/transforms-3/87a796fe63836d99a2198ac6a6284cb3/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 14        android:dataExtractionRules="@xml/data_extraction_rules"
-14-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:7:9-65
+14-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:8:9-65
 15        android:debuggable="true"
-16        android:extractNativeLibs="false"
-17        android:fullBackupContent="@xml/backup_rules"
-17-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:8:9-54
-18        android:icon="@mipmap/ic_launcher"
-18-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:9:9-43
-19        android:label="@string/app_name"
-19-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:10:9-41
+16        android:fullBackupContent="@xml/backup_rules"
+16-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:9:9-54
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:10:9-43
+18        android:label="@string/app_name"
+18-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:12:9-54
 20        android:supportsRtl="true"
-20-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:11:9-35
+20-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:13:9-35
 21        android:testOnly="true"
-22        android:theme="@style/Theme.MyApplication" >
-22-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:12:9-51
-23        <activity
-23-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:14:9-22:20
-24            android:name="com.example.myapplication.MainActivity"
-24-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:15:13-41
-25            android:exported="true" >
-25-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:16:13-36
-26            <intent-filter>
-26-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:17:13-21:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:18:17-69
-27-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:18:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:20:17-77
-29-->/Users/phucdo/Documents/Phúc Đỗ/Học tập/App mobi/MyApplication/app/src/main/AndroidManifest.xml:20:27-74
-30            </intent-filter>
-31        </activity>
-32
-33        <provider
-33-->[androidx.emoji2:emoji2:1.0.0] /Users/phucdo/.gradle/caches/transforms-3/98f686da2fce73ff8e48ca6a893a34a2/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
-34            android:name="androidx.startup.InitializationProvider"
-34-->[androidx.emoji2:emoji2:1.0.0] /Users/phucdo/.gradle/caches/transforms-3/98f686da2fce73ff8e48ca6a893a34a2/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
-35            android:authorities="com.example.myapplication.androidx-startup"
-35-->[androidx.emoji2:emoji2:1.0.0] /Users/phucdo/.gradle/caches/transforms-3/98f686da2fce73ff8e48ca6a893a34a2/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
-36            android:exported="false" >
-36-->[androidx.emoji2:emoji2:1.0.0] /Users/phucdo/.gradle/caches/transforms-3/98f686da2fce73ff8e48ca6a893a34a2/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
-37            <meta-data
-37-->[androidx.emoji2:emoji2:1.0.0] /Users/phucdo/.gradle/caches/transforms-3/98f686da2fce73ff8e48ca6a893a34a2/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
-38                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-38-->[androidx.emoji2:emoji2:1.0.0] /Users/phucdo/.gradle/caches/transforms-3/98f686da2fce73ff8e48ca6a893a34a2/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
-39                android:value="androidx.startup" />
-39-->[androidx.emoji2:emoji2:1.0.0] /Users/phucdo/.gradle/caches/transforms-3/98f686da2fce73ff8e48ca6a893a34a2/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
-40            <meta-data
-40-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/phucdo/.gradle/caches/transforms-3/087e3e4f119bd3d4d28bb978bd0efd9b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
-41                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-41-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/phucdo/.gradle/caches/transforms-3/087e3e4f119bd3d4d28bb978bd0efd9b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
-42                android:value="androidx.startup" />
-42-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/phucdo/.gradle/caches/transforms-3/087e3e4f119bd3d4d28bb978bd0efd9b/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
-43        </provider>
-44    </application>
-45
-46</manifest>
+22        android:theme="@style/Theme.PRO1121_CP17312_Nhom8_QuanLyCafe" >
+22-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:14:9-70
+23        <activity android:name="com.example.quanlycafe.Activities.AddCustomer" />
+23-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:16:9-81
+23-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:16:19-79
+24        <activity android:name="com.example.quanlycafe.Activities.DetailStatisticActivity" />
+24-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:18:9-94
+24-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:18:19-91
+25        <activity android:name="com.example.quanlycafe.Activities.AddStaffActivity" />
+25-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:19:9-87
+25-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:19:19-84
+26        <activity
+26-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:20:9-23:52
+27            android:name="com.example.quanlycafe.Activities.EditTableActivity"
+27-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:21:13-79
+28            android:label="Sửa bàn ăn"
+28-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:22:13-39
+29            android:theme="@style/PopUpActivity" />
+29-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:23:13-49
+30        <activity android:name="com.example.quanlycafe.Activities.PaymentActivity" />
+30-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:24:9-86
+30-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:24:19-83
+31        <activity
+31-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:25:9-28:52
+32            android:name="com.example.quanlycafe.Activities.AmountMenuActivity"
+32-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:26:13-80
+33            android:label="số lượng món"
+33-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:27:13-41
+34            android:theme="@style/PopUpActivity" />
+34-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:28:13-49
+35        <activity android:name="com.example.quanlycafe.Activities.AddCategoryActivity" />
+35-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:29:9-90
+35-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:29:19-87
+36        <activity android:name="com.example.quanlycafe.Activities.AddMenuActivity" />
+36-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:30:9-86
+36-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:30:19-83
+37        <activity
+37-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:31:9-34:52
+38            android:name="com.example.quanlycafe.Activities.AddTableActivity"
+38-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:32:13-78
+39            android:label="@string/addTable"
+39-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:33:13-45
+40            android:theme="@style/PopUpActivity" />
+40-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:34:13-49
+41        <activity
+41-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:35:9-37:40
+42            android:name="com.example.quanlycafe.DangNhapActivity"
+42-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:36:13-67
+43            android:exported="false" />
+43-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:37:13-37
+44        <activity
+44-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:38:9-46:20
+45            android:name="com.example.quanlycafe.ManHinhChoActivity"
+45-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:39:13-69
+46            android:exported="true" >
+46-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:40:13-36
+47            <intent-filter>
+47-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:41:13-45:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:42:17-69
+48-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:42:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:44:17-77
+50-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:44:27-74
+51            </intent-filter>
+52        </activity>
+53        <activity
+53-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:47:9-49:40
+54            android:name="com.example.quanlycafe.MainActivity"
+54-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:48:13-63
+55            android:exported="false" />
+55-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:49:13-37
+56
+57        <meta-data
+57-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:51:9-53:57
+58            android:name="preloaded_fonts"
+58-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:52:13-43
+59            android:resource="@array/preloaded_fonts" />
+59-->/Users/phucdo/Desktop/quanlycafedongian 2/app/src/main/AndroidManifest.xml:53:13-54
+60
+61        <provider
+61-->[androidx.emoji2:emoji2:1.2.0] /Users/phucdo/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+62            android:name="androidx.startup.InitializationProvider"
+62-->[androidx.emoji2:emoji2:1.2.0] /Users/phucdo/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+63            android:authorities="com.example.quanlycafe.androidx-startup"
+63-->[androidx.emoji2:emoji2:1.2.0] /Users/phucdo/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+64            android:exported="false" >
+64-->[androidx.emoji2:emoji2:1.2.0] /Users/phucdo/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+65            <meta-data
+65-->[androidx.emoji2:emoji2:1.2.0] /Users/phucdo/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+66                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+66-->[androidx.emoji2:emoji2:1.2.0] /Users/phucdo/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+67                android:value="androidx.startup" />
+67-->[androidx.emoji2:emoji2:1.2.0] /Users/phucdo/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+68            <meta-data
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/phucdo/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+69                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+69-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/phucdo/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+70                android:value="androidx.startup" />
+70-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/phucdo/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+71        </provider>
+72    </application>
+73
+74</manifest>

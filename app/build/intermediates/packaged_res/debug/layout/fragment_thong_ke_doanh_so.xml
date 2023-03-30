@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.ThongKeDoanhSoFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:id="@+id/linner1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tvHeadTK"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="NHOM8_CP17312"
+            android:textSize="48dp"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#8E24AA"
+            android:layout_marginTop="20dp"/>
+        <TextView
+            android:id="@+id/tvSmallTK"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="cafeteria-event-workshop"
+            android:textSize="13dp"
+            android:layout_gravity="center_horizontal"
+            android:textColor="#8E24AA"
+            android:textStyle="bold"/>
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/linner2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/linner1">
+        <Button
+            android:id="@+id/btnTuNgay"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:hint="Từ ngày"
+            android:textSize="25dp"
+            android:gravity="center"
+            android:background="@drawable/ic_baseline_calendar_today_24"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#FFFFFF" />
+        <Button
+            android:id="@+id/btnDenNgay"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:hint="Đến ngày"
+            android:textSize="25dp"
+            android:gravity="center"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/ic_baseline_calendar_today_24"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#FFFFFF" />
+    </LinearLayout>
+    <Button
+        android:id="@+id/btnTK"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/linner2"
+        android:layout_centerHorizontal="true"
+        android:text="Thống kê"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/ic_baseline_bar_chart_24"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FFFFFF" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/btnTK"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvTongDoanhThu"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="Tổng doanh thu:"
+            android:textAlignment="textStart"
+            android:background="#A8924D"
+            android:textSize="25dp"/>
+        <View
+            android:id="@+id/line1"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#888"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

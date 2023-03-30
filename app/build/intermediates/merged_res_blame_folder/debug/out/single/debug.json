@@ -1,74 +1,526 @@
 [
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/mipmap-anydpi-v33_ic_launcher.xml.flat",
-        "source": "com.example.myapplication.app-main-27:/mipmap-anydpi-v33/ic_launcher.xml"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_airline_seat_legroom_normal_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_airline_seat_legroom_normal_24.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-27:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_menu_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_menu_24.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.myapplication.app-main-27:/xml/data_extraction_rules.xml"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_storage_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_storage_24.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-27:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_welcome_logo.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/welcome_logo.png"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/xml_backup_rules.xml.flat",
-        "source": "com.example.myapplication.app-main-27:/xml/backup_rules.xml"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_coffee_icon.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/coffee_icon.png"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.myapplication.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_round_corner_menutext.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/round_corner_menutext.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.myapplication.app-main-27:/drawable/ic_launcher_background.xml"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_payment_icon.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/payment_icon.png"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-27:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/font_brandon_grotesque_bold_italic.ttf.flat",
+        "source": "com.example.quanlycafe.app-main-33:/font/brandon_grotesque_bold_italic.ttf"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-27:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.myapplication.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/menu_edit_menu.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/menu/edit_menu.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-27:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_cafe_americano.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/cafe_americano.png"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/layout_activity_main.xml.flat",
-        "source": "com.example.myapplication.app-main-27:/layout/activity_main.xml"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_amount_menu_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/amount_menu_layout.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-27:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_addcategory_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/addcategory_layout.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-27:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_cafe_icon.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/cafe_icon.png"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-27:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/font_muli.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/font/muli.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.myapplication.app-main-27:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_displaytable_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/displaytable_layout.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.example.myapplication.app-main-27:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_backspace_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_backspace_24.xml"
     },
     {
-        "merged": "com.example.myapplication.app-merged_res-25:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.myapplication.app-main-27:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.example.quanlycafe.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_addcustomer.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/addcustomer.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_fragment_display_thong_ke.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/fragment_display_thong_ke.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_displaystaff_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/displaystaff_layout.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_event_seat_40.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_event_seat_40.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_user_cog_solid.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/user_cog_solid.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_addtable_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/addtable_layout.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_edittable_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/edittable_layout.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/font_muli_black.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/font/muli_black.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_item_spinnerkh.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/item_spinnerkh.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_nutella_frappuccinos.jpg.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/nutella_frappuccinos.jpg"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_button_addcattory.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/button_addcattory.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_local_phone_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_local_phone_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_corner_border_white.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/corner_border_white.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_toogle_bar_menu.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/toogle_bar_menu.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/anim_slide_in_left.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_attach_money_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/anim_bottom_anim.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/anim/bottom_anim.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/font_brandon_grotesque_light_italic.ttf.flat",
+        "source": "com.example.quanlycafe.app-main-33:/font/brandon_grotesque_light_italic.ttf"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_fragment_thong_ke.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/fragment_thong_ke.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_circle_drawable.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/circle_drawable.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_payments_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_payments_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_logocoffee.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/logocoffee.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_home_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_person_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_addstaff_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/addstaff_layout.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/anim_fade_out.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_out_icon.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/out_icon.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_calendar_today_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_user_solid.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/user_solid.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_recoffeeshop.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/recoffeeshop.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_drinkfood.jpeg.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/drinkfood.jpeg"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_exit_to_app_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/menu_edit_context_menu.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/menu/edit_context_menu.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/font_brandon_grotesque_medium_italic.ttf.flat",
+        "source": "com.example.quanlycafe.app-main-33:/font/brandon_grotesque_medium_italic.ttf"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_loadingicon.gif.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/loadingicon.gif"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/menu_main_menu_navigation.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/menu/main_menu_navigation.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_login_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/login_layout.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_displaystatistic_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/displaystatistic_layout.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/font_brandon_grotesque_thin_italic.ttf.flat",
+        "source": "com.example.quanlycafe.app-main-33:/font/brandon_grotesque_thin_italic.ttf"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_fastfood_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_fastfood_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_displaymenu_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/displaymenu_layout.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/font_muli_extralight.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/font/muli_extralight.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_person_pin_32.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_person_pin_32.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_custom_layout_displaystaff.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/custom_layout_displaystaff.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_table_coffee.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/table_coffee.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_item_top.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/item_top.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_corner_border_black.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/corner_border_black.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_drawable_addcattory.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/drawable_addcattory.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_email_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_addmenu_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/addmenu_layout.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_custom_layout_paymentmenu.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/custom_layout_paymentmenu.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_fragment_thong_ke_san_pham.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/fragment_thong_ke_san_pham.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/anim_slide_in_right.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/anim_slide_out_right.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_espresso.jpg.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/espresso.jpg"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_displaycategory_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/displaycategory_layout.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_create_pencil.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_create_pencil.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_item_top10.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/item_top10.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_fragment_frm_top.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/fragment_frm_top.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_payment_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_payment_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_add_circle_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_lock_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_toogle_bar.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/toogle_bar.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_splash_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/splash_layout.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/font_bangers.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/font/bangers.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/menu_item_menu.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/menu/item_menu.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_bar_chart_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_bar_chart_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_corner_border_primary.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/corner_border_primary.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable-v24_addattachicon.PNG.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable-v24/addattachicon.PNG"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_detailstatistic_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/detailstatistic_layout.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_custom_layout_displaycategory.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/custom_layout_displaycategory.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_restaurant_menu_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_restaurant_menu_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_menu_navigation_header.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/menu_navigation_header.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_tea.jpg.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/tea.jpg"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_info_24.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_custom_layout_displaymenu.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/custom_layout_displaymenu.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/font_brandon_grotesque_black.ttf.flat",
+        "source": "com.example.quanlycafe.app-main-33:/font/brandon_grotesque_black.ttf"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/font_baloo.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/font/baloo.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_custom_layout_displaycustomer.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/custom_layout_displaycustomer.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_round_corner_categorytext.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/round_corner_categorytext.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/anim_slide_out_left.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_payment_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/payment_layout.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_table_seat.png.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/table_seat.png"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/font_orbitron_medium.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/font/orbitron_medium.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_custom_layout_displaystatistic.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/custom_layout_displaystatistic.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/font_brandon_grotesque_light.ttf.flat",
+        "source": "com.example.quanlycafe.app-main-33:/font/brandon_grotesque_light.ttf"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_baseline_airline_seat_legroom_normal_40.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_baseline_airline_seat_legroom_normal_40.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.quanlycafe.app-pngs-26:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_custom_layout_displaytable.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/custom_layout_displaytable.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/font_brandon_grotesque_regular_italic.ttf.flat",
+        "source": "com.example.quanlycafe.app-main-33:/font/brandon_grotesque_regular_italic.ttf"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/anim_side_anim.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/anim/side_anim.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_displayhome_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/displayhome_layout.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/anim_fade_in.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_round_corner_textview.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/round_corner_textview.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_home_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/home_layout.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_fragment_thong_ke_doanh_so.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/fragment_thong_ke_doanh_so.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.quanlycafe.app-merged_res-31:/layout_displaycustomer_layout.xml.flat",
+        "source": "com.example.quanlycafe.app-main-33:/layout/displaycustomer_layout.xml"
     }
 ]

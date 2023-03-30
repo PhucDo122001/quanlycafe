@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.quanlycafe">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PRO1121_CP17312_Nhom8_QuanLyCafe"
+        tools:targetApi="31">
+        <activity android:name="com.example.quanlycafe.Activities.AddCustomer"/>
+
+        <activity android:name="com.example.quanlycafe.Activities.DetailStatisticActivity" />
+        <activity android:name="com.example.quanlycafe.Activities.AddStaffActivity" />
+        <activity
+            android:name="com.example.quanlycafe.Activities.EditTableActivity"
+            android:label="Sửa bàn ăn"
+            android:theme="@style/PopUpActivity" />
+        <activity android:name="com.example.quanlycafe.Activities.PaymentActivity" />
+        <activity
+            android:name="com.example.quanlycafe.Activities.AmountMenuActivity"
+            android:label="số lượng món"
+            android:theme="@style/PopUpActivity" />
+        <activity android:name="com.example.quanlycafe.Activities.AddCategoryActivity" />
+        <activity android:name="com.example.quanlycafe.Activities.AddMenuActivity" />
+        <activity
+            android:name="com.example.quanlycafe.Activities.AddTableActivity"
+            android:label="@string/addTable"
+            android:theme="@style/PopUpActivity" />
+        <activity
+            android:name="com.example.quanlycafe.DangNhapActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.quanlycafe.ManHinhChoActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.quanlycafe.MainActivity"
+            android:exported="false" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

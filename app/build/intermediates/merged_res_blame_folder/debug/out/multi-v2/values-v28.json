@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.myapplication.app-mergeDebugResources-23:/values-v28/values-v28.xml",
+            "outputFile": "com.example.quanlycafe.app-mergeDebugResources-29:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "/Users/phucdo/.gradle/caches/transforms-3/6acbca7b40f0438e8e77ed68bb5757c6/transformed/material-1.5.0/res/values-v28/values-v28.xml",
+                    "source": "/Users/phucdo/.gradle/caches/transforms-3/459731560744495d36c7572f4eaf1462/transformed/material-1.7.0/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,14 +14,14 @@
                     }
                 },
                 {
-                    "source": "/Users/phucdo/.gradle/caches/transforms-3/116430c231f652ec6cb468c7433d967b/transformed/appcompat-1.4.1/res/values-v28/values-v28.xml",
+                    "source": "/Users/phucdo/.gradle/caches/transforms-3/034f511a629c0fda711794a09fef4382/transformed/appcompat-1.5.1/res/values-v28/values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "55,130,217,447",
+                        "startOffsets": "55,130,217,397",
                         "endLines": "2,3,7,11",
                         "endColumns": "74,86,12,12",
-                        "endOffsets": "125,212,442,684"
+                        "endOffsets": "125,212,392,584"
                     },
                     "to": {
                         "startLines": "14,15,16,20",

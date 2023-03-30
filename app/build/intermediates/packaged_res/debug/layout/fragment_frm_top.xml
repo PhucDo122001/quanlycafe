@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fragment.FrmTop">
+   <LinearLayout
+       android:layout_margin="10dp"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal">
+
+      <Button
+          android:id="@+id/btnTuNgay"
+          android:layout_width="100dp"
+          android:layout_height="wrap_content"
+          android:layout_marginRight="10dp"
+          android:text="Từ Ngày: " />
+
+      <EditText
+          android:id="@+id/edTuNgay"
+          android:hint="Ex: 2022-12-1"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+   </LinearLayout>
+   <LinearLayout
+       android:layout_margin="10dp"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:orientation="horizontal">
+
+      <Button
+          android:layout_marginRight="10dp"
+          android:id="@+id/btnDenNgay"
+          android:layout_width="100dp"
+          android:layout_height="wrap_content"
+          android:text="Đến Ngày: " />
+
+      <EditText
+          android:id="@+id/edDenNgay"
+          android:hint="Ex: 2022-12-7"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content" />
+   </LinearLayout>
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_margin="10dp"
+       android:text="Top sản phẩm"
+       android:id="@+id/btnTopSP"/>
+
+   <ListView
+       android:id="@+id/lvTop"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:clipToPadding="true"
+       android:padding="8dp" />
+
+</LinearLayout>

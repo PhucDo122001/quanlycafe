@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_marginTop="30dp"
+    tools:context=".Fragment.DisplayTKFragment">
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnTuNgay"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="10dp"
+            android:text="Từ Ngày: " />
+
+        <EditText
+            android:id="@+id/edTuNgay"
+            android:hint="Ex: 2022-12-1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:layout_marginRight="10dp"
+            android:id="@+id/btnDenNgay"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:text="Đến Ngày: " />
+
+        <EditText
+            android:id="@+id/edDenNgay"
+            android:hint="Ex: 2022-12-7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="Tổng tiền"
+        android:id="@+id/btnDoanhThu"/>
+    <TextView
+        android:id="@+id/tvDoanhThu"
+        android:layout_margin="10dp"
+        android:textSize="25dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginTop="3dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:background="#A8924D"
+            android:gravity="center"
+            android:text="Danh sách đơn đặt đã thanh toán"
+            android:textSize="25dp" />
+
+        <ListView
+        android:layout_height="490dp"
+        android:layout_width="match_parent"
+        android:id="@+id/lvStatistic"
+        android:verticalSpacing="15dp"
+        android:padding="5dp"/>
+
+</LinearLayout>
+
+</LinearLayout>
